@@ -27,3 +27,14 @@ int main() {
     cout << resultat;
     return 0;
 }
+
+//3
+#include <iostream>
+using namespace std;
+int main() {
+    int A, B = 2;
+    cin >> A;
+    B = B - A;
+    cout << B;
+    return 0;
+}
